@@ -26,10 +26,10 @@ function logShout(string) {
   console.log(string.toLowerCase())}
 
 function sayHiToGrandma(string) {
-  if (string === lowercase)
+  if (lowercase === string)
 {    return "I can't hear you!";} 
 
-   else if (string === uppercase){
+   else if (uppercase === string){
     return "YES INDEED!";
     } 
 
