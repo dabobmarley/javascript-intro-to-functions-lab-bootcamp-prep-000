@@ -20,8 +20,9 @@ function whisper(string) {
   return string.toLowerCase()
 }
 function sayHiToGrandma(string) {
+  
   return "I can't hear you!"
-  if (string) lowercase
+
   else if (string) uppercase
   return "YES INDEED!"
 }
