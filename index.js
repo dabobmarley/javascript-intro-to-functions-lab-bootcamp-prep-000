@@ -19,6 +19,8 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase()
 }
+function logShout(string) { 
+  return 
 function sayHiToGrandma(string) {
   if (string) lowercase
     return "I can't hear you!"}
