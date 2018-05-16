@@ -21,9 +21,9 @@ function whisper(string) {
 }
 function sayHiToGrandma(string) {
   if (string) lowercase
-    return "I can't hear you!"
+    return "I can't hear you!"}
 
-else if (string) "I love you, Grandma."
+{ else if (string) "I love you, Grandma."
     return " I love you, too.
 }
 function sayHiToGrandma(string) {
